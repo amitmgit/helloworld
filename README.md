@@ -1,2 +1,3 @@
 # helloworld
-Thisis the test project for github
+This is the test project for github setup
+POC purpose. How git hb works
